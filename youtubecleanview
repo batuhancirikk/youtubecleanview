@@ -1,0 +1,72 @@
+! Title: youtubecleanview
+! Description: This is a uBlock Origin CSS filter to improve your YouTube experience!
+
+www.youtube.com###voice-search-button
+www.youtube.com##.sbdd_b
+youtube.com###thumbnail:style(border-radius: 0px !important)
+youtube.com##ytd-watch-flexy:style(border-radius: 0px !important)
+youtube.com###ytd-player.ytd-watch-flexy:style(border-radius: 0px !important)
+youtube.com##.ytp-player-minimized .html5-main-video, .ytp-player-minimized .ytp-miniplayer-scrim, .ytp-player-minimized.html5-video-player:style(border-radius: 0px !important)
+www.youtube.com##.ytp-ce-element-show
+youtube.com###cinematics.ytd-watch-flexy,
+www.youtube.com##.ytp-ce-element
+www.youtube.com##.ytp-cards-teaser
+youtube.com##ytd-thumbnail #thumbnail.ytd-thumbnail:style(border-radius: 0px !important)
+youtube.com##html body ytd-app div#content.style-scope.ytd-app ytd-page-manager#page-manager.style-scope.ytd-app ytd-browse.style-scope.ytd-page-manager div#header.style-scope.ytd-browse ytd-c4-tabbed-header-renderer.style-scope.ytd-browse.grid.grid-6-columns tp-yt-app-header-layout.style-scope.ytd-c4-tabbed-header-renderer div#wrapper.style-scope.tp-yt-app-header-layout tp-yt-app-header#header.style-scope.ytd-c4-tabbed-header-renderer div#contentContainer.style-scope.tp-yt-app-header div.page-header-banner.style-scope.ytd-c4-tabbed-header-renderer:style(border-radius: 0px !important)
+youtube.com##ytd-c4-tabbed-header-renderer[use-page-header-style] .page-header-banner-sizer.ytd-c4-tabbed-header-renderer:style(border-radius: 0px !important)
+youtube.com##html body ytd-app div#content.style-scope.ytd-app ytd-page-manager#page-manager.style-scope.ytd-app ytd-browse.style-scope.ytd-page-manager ytd-two-column-browse-results-renderer.style-scope.ytd-browse.grid.grid-6-columns div#primary.style-scope.ytd-two-column-browse-results-renderer ytd-section-list-renderer.style-scope.ytd-two-column-browse-results-renderer div#contents.style-scope.ytd-section-list-renderer ytd-item-section-renderer.style-scope.ytd-section-list-renderer div#contents.style-scope.ytd-item-section-renderer ytd-channel-video-player-renderer.style-scope.ytd-item-section-renderer div#player-container.style-scope.ytd-channel-video-player-renderer ytd-player#player.style-scope.ytd-channel-video-player-renderer div#container.style-scope.ytd-player:style(border-radius: 0px !important)
+youtube.com##html body ytd-app div#content.style-scope.ytd-app ytd-page-manager#page-manager.style-scope.ytd-app ytd-browse.style-scope.ytd-page-manager ytd-two-column-browse-results-renderer.style-scope.ytd-browse.grid.grid-6-columns div#primary.style-scope.ytd-two-column-browse-results-renderer ytd-section-list-renderer.style-scope.ytd-two-column-browse-results-renderer div#contents.style-scope.ytd-section-list-renderer ytd-item-section-renderer.style-scope.ytd-section-list-renderer div#contents.style-scope.ytd-item-section-renderer ytd-channel-video-player-renderer.style-scope.ytd-item-section-renderer div#player-container.style-scope.ytd-channel-video-player-renderer ytd-player#player.style-scope.ytd-channel-video-player-renderer:style(border-radius: 0px !important)
+youtube.com##.ytp-fit-cover-video .html5-main-video:style(border-radius: 0px !important)
+youtube.com##html body ytd-app div#content.style-scope.ytd-app ytd-page-manager#page-manager.style-scope.ytd-app ytd-browse.style-scope.ytd-page-manager ytd-two-column-browse-results-renderer.style-scope.ytd-browse.grid.grid-6-columns div#primary.style-scope.ytd-two-column-browse-results-renderer ytd-section-list-renderer.style-scope.ytd-two-column-browse-results-renderer div#contents.style-scope.ytd-section-list-renderer ytd-item-section-renderer.style-scope.ytd-section-list-renderer div#contents.style-scope.ytd-item-section-renderer ytd-channel-video-player-renderer.style-scope.ytd-item-section-renderer div#player-container.style-scope.ytd-channel-video-player-renderer ytd-player#player.style-scope.ytd-channel-video-player-renderer div#container.style-scope.ytd-player div#c4-player.html5-video-player.ytp-exp-bottom-control-flexbox.ytp-modern-caption.ytp-exp-ppp-update.ytp-fit-cover-video.ytp-bigboards.ytp-fine-scrubbing-exp.ytp-small-mode.playing-mode.ytp-autohide:style(border-radius: 0px !important)
+youtube.com##html body ytd-app div#content.style-scope.ytd-app ytd-page-manager#page-manager.style-scope.ytd-app ytd-browse.style-scope.ytd-page-manager ytd-two-column-browse-results-renderer.style-scope.ytd-browse.grid.grid-6-columns div#primary.style-scope.ytd-two-column-browse-results-renderer ytd-section-list-renderer.style-scope.ytd-two-column-browse-results-renderer div#contents.style-scope.ytd-section-list-renderer ytd-item-section-renderer.style-scope.ytd-section-list-renderer div#contents.style-scope.ytd-item-section-renderer ytd-channel-video-player-renderer.style-scope.ytd-item-section-renderer div#player-container.style-scope.ytd-channel-video-player-renderer ytd-player#player.style-scope.ytd-channel-video-player-renderer div#container.style-scope.ytd-player div#c4-player.html5-video-player.ytp-exp-bottom-control-flexbox.ytp-modern-caption.ytp-exp-ppp-update.ytp-fit-cover-video.ytp-bigboards.ytp-fine-scrubbing-exp.ytp-small-mode.playing-mode.ytp-autohide div.html5-video-container video.video-stream.html5-main-video:style(border-radius: 0px !important)
+youtube.com##html body ytd-app div#content.style-scope.ytd-app ytd-page-manager#page-manager.style-scope.ytd-app ytd-browse.style-scope.ytd-page-manager ytd-two-column-browse-results-renderer.style-scope.ytd-browse.grid.grid-6-columns div#primary.style-scope.ytd-two-column-browse-results-renderer ytd-section-list-renderer.style-scope.ytd-two-column-browse-results-renderer div#contents.style-scope.ytd-section-list-renderer ytd-item-section-renderer.style-scope.ytd-section-list-renderer div#contents.style-scope.ytd-item-section-renderer ytd-channel-video-player-renderer.style-scope.ytd-item-section-renderer div#player-container.style-scope.ytd-channel-video-player-renderer ytd-player#player.style-scope.ytd-channel-video-player-renderer div#container.style-scope.ytd-player div#c4-player.html5-video-player.ytp-exp-bottom-control-flexbox.ytp-modern-caption.ytp-exp-ppp-update.ytp-fit-cover-video.ytp-bigboards.ytp-fine-scrubbing-exp.ytp-small-mode.playing-mode.ytp-autohide div.html5-video-container:style(border-radius: 0px !important)
+ytd-channel-video-player-renderer[rounded] #player.ytd-channel-video-player-renderer
+youtube.com##ytd-channel-video-player-renderer[rounded] #player.ytd-channel-video-player-renderer:style(border-radius: 0px !important)
+youtube.com##html body ytd-app div#content.style-scope.ytd-app ytd-page-manager#page-manager.style-scope.ytd-app ytd-watch-flexy.style-scope.ytd-page-manager.hide-skeleton div#columns.style-scope.ytd-watch-flexy div#secondary.style-scope.ytd-watch-flexy div#secondar
+youtube.com##.collections-stack-wiz__collection-stack1--medium:style(border-radius: 0px !important)
+youtube.com##.ytp-player-minimized .html5-main-video, .ytp-player-minimized .ytp-miniplayer-scrim, .ytp-player-minimized.html5-video-player:style(border-radius: 0px !important)
+youtube.com##html body ytd-app ytd-miniplayer.style-scope.ytd-app div.miniplayer.style-scope.ytd-miniplayer div#card.style-scope.ytd-miniplayer div#video-container.style-scope.ytd-miniplayer div.video.style-scope.ytd-miniplayer div#player-container.style-scope.ytd-miniplayer ytd-player#ytd-player.style-scope.ytd-watch-flexy div#container.style-scope.ytd-player div#movie_player.html5-video-player.ytp-transparent.ytp-exp-bottom-control-flexbox.ytp-modern-caption.ytp-exp-ppp-update.ytp-fit-cover-video.ytp-bigboards.ytp-hide-info-bar.ytp-rounded-miniplayer-not-regular-wide-video.ytp-autonav-endscreen-cancelled-state.playing-mode.ytp-heat-map-v2.ytp-heat-map.ytp-small-mode.ytp-menu-shown.ytp-player-minimized.ytp-autohide div.ytp-miniplayer-ui:style(border-radius: 0px !important)
+youtube.com##ytp-miniplayer-scrim:style(border-radius: 0px !important)
+www.youtube.com##.ytp-ce-element
+www.youtube.com##.ytp-endscreen-content
+www.youtube.com##ytd-browse[page-subtype="playlist"] [title-style="ITEM_SECTION_HEADER_TITLE_STYLE_PLAYLIST_RECOMMENDATIONS"]:upward(ytd-item-section-renderer)
+www.youtube.com##ytd-browse[page-subtype="playlist"] ytd-grid-playlist-renderer:upward(#dismissible)
+youtube.com##.collections-stack-wiz__collection-stack1--large:style(border-radius: 0px !important)
+youtube.com##.collections-stack-wiz__collection-stack2:style(border-radius: 0px !important)
+youtube.com##ytd-engagement-panel-section-list-renderer[modern-panels]:not([live-chat-engagement-panel]):style(border-radius: 0px !important)
+youtube.com##yt-chip-cloud-chip-renderer:style(border-radius: 0px !important)
+youtube.com###container.ytd-searchbox:style(border-radius: 0px !important)
+youtube.com###container.ytd-searchbox:style(border: none !important)
+youtube.com###container.ytd-searchbox:style(background-color: #232323 !important)
+youtube.com##yt-interaction.rounded-large .fill.yt-interaction, yt-interaction.rounded-large .stroke.yt-interaction:style(display: none; !important)
+youtube.com##yt-interaction.rounded-large .fill.yt-interaction, yt-interaction.rounded-large .stroke.yt-interaction:style(display: none; !important)
+youtube.com##.fill.yt-interaction:style(display: none; !important)
+youtube.com##.stroke.yt-interaction .fill.yt-interaction:style(display: none; !important)
+youtube.com###thumbnail:style(border-radius: 0px !important)
+youtube.com##ytd-watch-flexy[rounded-player-large][default-layout] #ytd-player.ytd-watch-flexy:style(border-radius: 0px !important)
+youtube.com###description.ytd-watch-metadata:style(border-radius: 0px !important)
+youtube.com###thumbnail:style(border-radius: 0px !important)
+youtube.com##ytd-info-panel-content-renderer[rounded-container]:style(border-radius: 0px !important)
+www.youtube.com###search-icon-legacy
+youtube.com##ytd-rich-metadata-renderer[rounded]:style(border-radius: 0px !important)
+youtube.com##ytd-donation-shelf-renderer:style(border-radius: 0px !important)
+www.youtube.com##ytd-guide-renderer a.yt-simple-endpoint path[d^="M10 14.65v-5.3L15 12l-5 2.65zm7.77-4.33"]:upward(ytd-guide-entry-renderer)
+www.youtube.com##ytd-mini-guide-renderer a.yt-simple-endpoint path[d^="M10 14.65v-5.3L15 12l-5 2.65zm7.77-4.33"]:upward(ytd-mini-guide-entry-renderer)
+www.youtube.com##ytd-browse[page-subtype="home"] .ytd-thumbnail[href^="/shorts/"]:upward(ytd-rich-item-renderer)
+www.youtube.com##ytd-browse[page-subtype="subscriptions"] .ytd-thumbnail[href^="/shorts/"]:upward(ytd-grid-video-renderer,ytd-rich-item-renderer)
+www.youtube.com##ytd-search .ytd-thumbnail[href^="/shorts/"]:upward(ytd-video-renderer)
+www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-video-renderer .ytd-thumbnail[href^="/shorts/"]:upward(ytd-item-section-renderer)
+www.youtube.com##ytd-watch-next-secondary-results-renderer .ytd-thumbnail[href^="/shorts/"]:upward(ytd-compact-video-renderer,ytd-shelf-renderer)
+www.youtube.com##ytd-browse[page-subtype="trending"] .ytd-thumbnail[href^="/shorts/"]:upward(ytd-video-renderer)
+www.youtube.com##ytd-search .ytd-thumbnail[href^="/shorts/"]:upward(ytd-video-renderer)
+www.youtube.com##ytd-notification-renderer:has(> a[href^="/shorts/"])
+www.youtube.com##ytd-rich-shelf-renderer[is-shorts]
+www.youtube.com##ytd-rich-shelf-renderer[is-shorts].ytd-rich-section-renderer:upward(ytd-rich-section-renderer)
+www.youtube.com##ytd-reel-shelf-renderer
+m.youtube.com##ytm-reel-shelf-renderer
+m.youtube.com##ytm-pivot-bar-renderer div.pivot-shorts:upward(ytm-pivot-bar-item-renderer)
+m.youtube.com##ytm-browse ytm-item-section-renderer ytm-thumbnail-overlay-time-status-renderer[data-style="SHORTS"]:upward(ytm-video-with-context-renderer)
+m.youtube.com##ytm-browse ytm-item-section-renderer ytm-thumbnail-overlay-time-status-renderer[data-style="SHORTS"]:upward(ytm-compact-video-renderer)
+m.youtube.com##ytm-search ytm-thumbnail-overlay-time-status-renderer[data-style="SHORTS"]:upward(ytm-compact-video-renderer,ytm-video-with-context-renderer)
+m.youtube.com##ytm-single-column-watch-next-results-renderer ytm-thumbnail-overlay-time-status-renderer span:has-text(/^(0:\d\d|1:0\d)$/):upward(ytm-video-with-context-renderer)
+youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:contents !important;)
